@@ -1,10 +1,10 @@
-# reem
+# Wasalny
 
-A new Flutter project.
+Wasalny is a Flutter-powered travel planner that simplifies the process of organizing trips. From booking flights and hotels to checking live weather and exchange rates, Wasalny offers all the essential tools you need to make informed travel decisions. With intuitive navigation and real-time data integration, it makes travel planning as simple as possible.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Wasalny is a Flutter-powered travel planner that simplifies the process of organizing trips. From booking flights and hotels to checking live weather and exchange rates, Wasalny offers all the essential tools you need to make informed travel decisions. With intuitive navigation and real-time data integration, it makes travel planning as simple as possible.
 
 A few resources to get you started if this is your first Flutter project:
 
